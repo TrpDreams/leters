@@ -3,6 +3,13 @@
 
 $theme: "quartz" !default;
 
+$container-max-widths: (
+  sm: 540px,
+  md: 640px,
+  lg: 690px,
+  xl: 720px
+) !default;
+
 //
 // Color system
 //
